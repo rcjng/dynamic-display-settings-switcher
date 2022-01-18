@@ -9,11 +9,11 @@ DDSS v1.0.0.0
 - By default, sets the resolution and refresh rate, when plugged, to the maximum supported resolution and refresh rate and when unplugged, to FHD or equivalent and the minimum supported refresh rate.
 
 ## Known Issues & Inconveniences
-- Incompatible on non-Windows systems
+- Incompatible on non-Windows systems.
 
 ## TODO
-- Add brightness setting
-- Add manual resolution change functionality
-- Add config file to create and store user profiles for AC and battery
-- Add tray icon with GUI to modify config file
-- Update .exe icon
+- Add brightness setting.
+- Add manual resolution change functionality.
+- Add config file to create and store user profiles for AC and battery.
+- Add tray icon with GUI to modify config file.
+- Update .exe icon.
