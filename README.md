@@ -6,7 +6,7 @@ DDSS v1.0.0.0
 
 ## Features
 - Automatically lowers resolution and refresh rate on the primary monitor when unplugging from power and increases resolution and refresh rate on the primary monitor when plugging to power. 
-- By default, sets the resolution and refresh rate, when plugged, to the maximum supported resolution and refresh rate and when unplugged, to FHD or equivalent and the minimum supported refresh rate.
+- By default, sets the resolution and refresh rate, when plugged, to the maximum supported resolution and refresh rate and when unplugged, to HD or equivalent and the minimum supported refresh rate.
 
 ## Known Issues & Inconveniences
 - Incompatible on non-Windows systems.
