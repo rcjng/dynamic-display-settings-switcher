@@ -1,6 +1,6 @@
 # ==========================================================================================================================================
 #   Name                           		:| Ver      :| Author			    :| Last Mod. Date 		:| Changes Made:
-#   DDSS			                    :| V1.0.0.0 :| Robert Jiang			:| 01/18/2022		    :| Implemented baseline features
+#   DDSS			                        :| V1.0.0.0 :| Robert Jiang			:| 01/18/2022		    :| Implemented baseline features
 # ==========================================================================================================================================
 #   Description
 #	DDSS is a display setting utility aimed to help save laptop battery life on Windows by automatically changing the display settings
