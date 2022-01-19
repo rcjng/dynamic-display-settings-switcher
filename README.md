@@ -12,6 +12,7 @@ DDSS v1.5.0.0
 ## Known Issues & Inconveniences
 - Incompatible on non-Windows systems.
 - Running ddss_v1.5.0.0.exe for the first time when on battery will configure the DDSS AC display settings profile to match the user's display settings on battery.
+- Changing config settings requires restarting the program for the changes to take effect.
 
 ## Since Last Version (v1.0.0.0)
 - Added brightness switching for increased battery gains.
