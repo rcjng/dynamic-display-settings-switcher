@@ -6,17 +6,18 @@ DDSS v1.5.0.0
 
 ## Features
 - By default, automatically lowers resolution, refresh rate, and brightness on the primary monitor when unplugging from power and increases resolution, refresh rate, and brightness on the primary monitor when plugging to power. 
-- Allows for user to change AC and Battery display settings profiles in the 'config.ini' file
-- Contains a system tray app that allows for manual display setting switching: Static Display Setting Switcher (SDSS)
+- Allows for user to change AC and Battery display settings profiles in the 'config.ini' file.
+- Contains a system tray app that allows for manual display setting switching: Static Display Setting Switcher (SDSS).
 
 ## Known Issues & Inconveniences
 - Incompatible on non-Windows systems.
+- Running ddss_v1.5.0.0.exe for the first time when on battery will configure the DDSS AC display settings profile to match the user's display settings on battery.
 
 ## Since Last Version (v1.0.0.0)
 - Added brightness switching for increased battery gains.
-- Added manual display setting switching functionality (SDSS)
-- Added a config file to store user display setting profiles on AC and Battery
-- Added a tray icon to implement SDSS functionality and allow for quitting the utility without killing the process via Task Manager
+- Added manual display setting switching functionality (SDSS).
+- Added a config file to store user display setting profiles on AC and Battery.
+- Added a tray icon to implement SDSS functionality and allow for quitting the utility without killing the process via Task Manager.
 
 ## TODO
 - ~~Add brightness setting.~~
